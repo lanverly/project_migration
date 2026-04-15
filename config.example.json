@@ -1,0 +1,14 @@
+{
+    "plone_url": "https://seu-plone.exemplo.gov.br/site/pt-br",
+    "plone_token": "Bearer JWT_TOKEN_AQUI",
+    "plone_news_folder": "/noticias",
+    "source_base": "https://www.gov.br",
+    "source_start": "https://www.gov.br/orgaos/exemplo/pt-br/assuntos/noticias",
+    "delay": 1,
+    "max_news": 0,
+    "all_pages": true,
+    "progress_file": "migracao_progresso.json",
+    "portal_type": "Document",
+    "migrate_as_self": true,
+    "skip_files": false
+}
