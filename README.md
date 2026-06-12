@@ -129,7 +129,7 @@ Hoje o app expõe apenas esses dois valores na interface e o script foi ajustado
 source .venv/bin/activate
 
 # Executar migração
-python trensurb_migrar_noticias.py
+python migration_to_plone_6.py
 ```
 
 ## Saídas e Monitoramento
